@@ -1,4 +1,5 @@
 # Big-Sur-GTK3-4-Themes
+
 [macOS-6.1.zip](https://github.com/user-attachments/files/31704920/macOS-6.1.zip)
 
 [macOS-Dark-6.1-dark.zip](https://github.com/user-attachments/files/31704930/macOS-Dark-6.1-dark.zip)
@@ -20,10 +21,13 @@ Requires GTK 3.20 or higher, Gnome or Cinnamon, MATE and Xfce
 Supported platforms
 
 Any GTK-based desktop
+
 Cinnamon
+
 Gnome
+
 LXDE/Openbox
+
 MATE
+
 Xfce
-
-
