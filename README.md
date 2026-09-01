@@ -14,3 +14,6 @@ GTK theme based on the much more flat style of macOS 11 Big Sur.
 
 Requires GTK 3.20 or higher, Gnome or Cinnamon, MATE and Xfce
 
+[macOS-6.1.zip](https://github.com/user-attachments/files/31704920/macOS-6.1.zip)
+
+[macOS-Dark-6.1-dark.zip](https://github.com/user-attachments/files/31704930/macOS-Dark-6.1-dark.zip)
