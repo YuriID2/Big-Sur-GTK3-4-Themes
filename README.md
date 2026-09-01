@@ -8,7 +8,7 @@ Requires GTK 3.20 or higher, Gnome or Cinnamon, MATE and Xfce
 
 [macOS-Dark-6.1-dark.zip](https://github.com/user-attachments/files/31704930/macOS-Dark-6.1-dark.zip)
 
-Supported platforms
+#Supported platforms:
 
 Any GTK-based desktop
 
