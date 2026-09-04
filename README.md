@@ -1,3 +1,4 @@
+<img width="1080" height="700" alt="c3aad64fac52e22ce7fec1b10d1986042ccd657b3bbc292949a94b01eb8434be99ec" src="https://github.com/user-attachments/assets/3f161273-5d02-40ff-85df-092fd7bf4ee2" />
 # Big-Sur-GTK3-4-Themes
 
 GTK theme based on the much more flat style of macOS 11 Big Sur.
