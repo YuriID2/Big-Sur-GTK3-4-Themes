@@ -1,4 +1,3 @@
-<img width="1080" height="700" alt="c3aad64fac52e22ce7fec1b10d1986042ccd657b3bbc292949a94b01eb8434be99ec" src="https://github.com/user-attachments/assets/3f161273-5d02-40ff-85df-092fd7bf4ee2" />
 # Big-Sur-GTK3-4-Themes
 
 GTK theme based on the much more flat style of macOS 11 Big Sur.
@@ -23,6 +22,7 @@ MATE
 
 Xfce
 
+<img width="1080" height="700" alt="c3aad64fac52e22ce7fec1b10d1986042ccd657b3bbc292949a94b01eb8434be99ec" src="https://github.com/user-attachments/assets/3f161273-5d02-40ff-85df-092fd7bf4ee2" />
 <img width="1920" height="1080" alt="big1" src="https://github.com/user-attachments/assets/31329011-a05e-4f0f-9114-65786116bd2b" />
 <img width="1920" height="1080" alt="big2" src="https://github.com/user-attachments/assets/cb8864bf-e755-4f07-a508-e0d49daf7848" />
 <img width="1920" height="1080" alt="big3" src="https://github.com/user-attachments/assets/a3dc0658-0575-4d0d-b2cd-b2deb886f9a7" />
